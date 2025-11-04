@@ -6,8 +6,8 @@
 #    By: arthur <arthur@student.42.fr>                 *    *       *    *     #
 #                                                      *                 *     #
 #    Created: 2025/11/03 17:05:48 by arthur            *                 *     #
-#    Updated: 2025/11/03 17:05:55 by arthur            *******************     #
+#    Updated: 2025/11/04 01:18:05 by arthur            *******************     #
 #                                                                              #
 # **************************************************************************** #
 
-SRC_MAIN := ./src/main.cpp ./src/parsing.cpp 
+SRC_MAIN := ./src/render.cpp ./src/main.cpp ./src/parsing.cpp 
