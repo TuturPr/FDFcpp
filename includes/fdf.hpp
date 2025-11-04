@@ -6,7 +6,7 @@
 /*   By: arthur <arthur@student.42.fr>                 *    *       *    *    */
 /*                                                     *                 *    */
 /*   Created: 2025/11/03 16:43:59 by arthur            *                 *    */
-/*   Updated: 2025/11/04 02:12:04 by arthur            *******************    */
+/*   Updated: 2025/11/04 14:04:59 by arthur            *******************    */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,8 +19,8 @@
 #include <string>
 #include <cstring>
 #include "MLX42.h"
-#define WIN_WIDTH 800
-#define WIN_HEIGHT 600
+#define WIN_WIDTH 1920
+#define WIN_HEIGHT 1080
 #include <SDL2/SDL_syswm.h>
 
 typedef struct s_data
